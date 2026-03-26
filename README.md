@@ -6,5 +6,4 @@ Temas:
 - POO
 - Colecciones
 - Streams
-- Interfaces
 - Enums
